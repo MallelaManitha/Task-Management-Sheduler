@@ -162,6 +162,3 @@ If you encounter any issues:
 - Data visualization for task statistics
 - User preferences
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
